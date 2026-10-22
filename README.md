@@ -8,10 +8,9 @@
 
 ---
 
-- 🔭 Actualmente trabajo como analista en **Qualyti Sistems**
 - 🌱 Estoy aprendiendo nuevos lenguajes como **Python** y **React**
 - 🤝 Estoy disponible para colaborar en proyectos o trabajar profesionalmente
-- 📫 Puedes contactarme: **Danielcuartas08@gmail.com**
+- 📫 Puedes contactarme: **danielcuartas08@gmail.com**
 - 📄 Mira mi perfil profesional en [LinkedIn](https://www.linkedin.com/in/danielcuartas08/)
   
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
