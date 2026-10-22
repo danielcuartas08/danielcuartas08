@@ -21,8 +21,12 @@ Soy tecnólogo en Análisis y Desarrollo de Software (SENA) enfocado en crear ap
 ---
 
 ### 🚀 Proyectos Destacados
+
 - 🚗 **[PARKZONE](https://github.com/danielcuartas08/Parkzoneweb):** Sistema web para la gestión de parqueaderos y control vehicular desarrollado en Java Spring Boot y MySQL.
-- 🌐 **[Landing Page Demo](https://github.com/danielcuartas08/Landing-page-demo):** Maquetación responsive desplegada en vivo con GitHub Pages.
+- 🤖 **[UniBots](https://github.com/TheRainHermit/UniBots):** Sistema de Chatbot con Inteligencia Artificial (Ollama, Python, React y PostgreSQL) desarrollado para la Hackathon TalentoTech.
+- 🏎️ **[BMW Showroom](https://github.com/danielcuartas08/bmw-website-talentotech):** Aplicación web interactiva con catálogo de vehículos y servidor backend en Node.js / Express (Proyecto Final TalentoTech).
+- 🔐 **[Auth REST API](https://github.com/danielcuartas08/registro-login-rest-api):** Servicio API RESTful de registro y autenticación de usuarios en Java (Jakarta EE), GlassFish y MySQL.
+- 🌐 **[Landing Page Demo](https://github.com/danielcuartas08/Landing-page-demo):** Maquetación responsive desplegada en vivo a través de GitHub Pages.
 
 ---
 
