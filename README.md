@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/danielcuartas08/" target="_blank">Daniel Cuartas</a></h1>
 
-<h3 align="center">Desarrollador Web Full Stack | Backend Java & Spring Boot</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF programando" width="400" height="300">
-</p>
-
----
-
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/danielcuartas08/" target="_blank">Daniel Cuartas</a></h1>
-
 <h3 align="center">Desarrollador de Software | Java & Spring Boot | Node.js</h3>
 
 <p align="center">
