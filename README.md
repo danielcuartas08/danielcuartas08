@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Daniel Cuartas</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/danielcuartas08/" target="_blank">Daniel Cuartas</a></h1>
 
-<h3 align="center">Un apasionado desarrollador de software abierto al aprendizaje</h3>
+<h3 align="center">Desarrollador Web Full Stack | Backend Java & Spring Boot</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF programando" width="400" height="300">
@@ -8,18 +8,34 @@
 
 ---
 
-- 🌱 Estoy aprendiendo nuevos lenguajes como **Python** y **React**
-- 🤝 Estoy disponible para colaborar en proyectos o trabajar profesionalmente
-- 📫 Puedes contactarme: **danielcuartas08@gmail.com**
+### 👨‍💻 Sobre mí
+Soy tecnólogo en Análisis y Desarrollo de Software (SENA) enfocado en crear aplicaciones web funcionales y escalables. Actualmente me encuentro **buscando una oportunidad de prácticas / contrato de aprendizaje** para aportar valor y seguir creciendo profesionalmente.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,html,css,git,github,linux,maven" alt="Tech Stack Icons"/>
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+- 🚗 **[PARKZONE](https://github.com/danielcuartas08/Parkzoneweb):** Sistema web para la gestión de parqueaderos y control vehicular desarrollado en Java Spring Boot y MySQL.
+- 🌐 **[Landing Page Demo](https://github.com/danielcuartas08/Landing-page-demo):** Maquetación responsive desplegada en vivo con GitHub Pages.
+
+---
+
+- 🌱 Actualmente enfocado en fortalecer mis habilidades en **Java, Spring Boot y Bases de Datos relacionales**.
+- 🤝 Disponible para **contrato de aprendizaje / etapa práctica** en desarrollo de software.
+- 📫 Puedes contactarme en: **danielcuartasc@hotmail.com** *(o tu correo preferido)*
 - 📄 Mira mi perfil profesional en [LinkedIn](https://www.linkedin.com/in/danielcuartas08/)
   
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/danielcuartas08/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-
-
+  <a target="_blank" href="https://www.linkedin.com/in/danielcuartas08/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
+</p>
 
